@@ -16,7 +16,30 @@
     width: auto;
     padding-top: 30px;
 }
-
-
-
-
+.side_main{
+    font-size: 20px;
+   
+    
+}
+.sotto-titolo{
+   color: gray;
+}
+p{
+    margin: 0;
+}
+.data{
+    color: grey;
+    font-size: 15px;
+}
+h1{
+    margin-bottom: 0;
+}
+.color-blue{
+    color: rgb(0, 204, 255);
+}
+.imma{
+    padding-top: 30px;
+}
+.sotto-foto{
+    font-size: 12px;
+}
