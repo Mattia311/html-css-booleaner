@@ -43,3 +43,39 @@ h1{
 .sotto-foto{
     font-size: 12px;
 }
+.latino{
+   padding-top: 20px;
+    
+}
+.lista{
+    margin-bottom: 0px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.tabella{
+    padding-top: 40px;
+    border-spacing: 0;
+    width: 100%;
+}
+.acqua{
+    padding-top: 30px;
+}
+h3{
+    color: gray;
+}
+.giallo1{
+    background-color: yellow;
+}
+.blocco1{
+    background-color: rgb(0, 119, 255)
+;
+}
+.venti{
+    width: 25%;
+}
+.cinque{
+    width: 50%;
+}
+.blocco2{
+    background-color: rgb(0, 255, 255);
+}
